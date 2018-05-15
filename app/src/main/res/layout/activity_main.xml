@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/alert0_01"
+    android:id="@+id/bg"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/resLoc"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="70dp"
+        android:background="@mipmap/red_bg"
+        android:text="View Location of Rescuers"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/evaCenter"
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:layout_margin="0dp"
+        android:foregroundGravity="fill_horizontal"
+        android:layout_gravity="bottom"
+        app:srcCompat="@mipmap/evacuate_centers_nearby_btn" />
+
+
+</android.support.design.widget.CoordinatorLayout>

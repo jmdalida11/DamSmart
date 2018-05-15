@@ -1,0 +1,1444 @@
+{
+    "EvacuationCenters": [
+        {
+            "Name": "Apolinario Mabini Elementary School",
+            "City": "Caloocan",
+            "Category": "School",
+            "Location": [120.985777, 14.601346]
+        },
+        {
+            "Name": "Carmona Barangay Hall",
+            "City": "Caloocan",
+            "Category": "Government Building",
+            "Location": [121.016803, 14.57576]
+        },
+        {
+            "Name": "Caybiga Elementary School",
+            "City": "Caloocan",
+            "Category": "School",
+            "Location": [121.006862, 14.719063]
+        },
+        {
+            "Name": "Daanghari Elementary School",
+            "City": "Caloocan",
+            "Category": "School",
+            "Location": [120.940751, 14.665691]
+        },
+        {
+            "Name": "Grace Park Elementary School Unit I",
+            "City": "Caloocan City",
+            "Category": "School",
+            "Location": [120.976384, 14.647632]
+        },
+        {
+            "Name": "Gregoria de Jesus Elementary School",
+            "City": "Caloocan City",
+            "Category": "School",
+            "Location": [120.980608, 14.650542]
+        },
+        {
+            "Name": "La Consolacion College - Deparo",
+            "City": "Caloocan city",
+            "Category": "School",
+            "Location": [120.982002, 14.6468]
+        },
+        {
+            "Name": "La Loma Catholic Cemetery",
+            "City": "Caloocan",
+            "Category": "Government Building",
+            "Location": [120.987614, 14.643465]
+        },
+        {
+            "Name": "Manila Central University",
+            "City": "Caloocan",
+            "Category": "School",
+            "Location": [120.986247, 14.659]
+        },
+        {
+            "Name": "Mary Help of Christians Parish",
+            "City": "caloocan City",
+            "Category": "Church",
+            "Location": [120.971462, 14.638164]
+        },
+        {
+            "Name": "Maypajo Elementary School",
+            "City": "Caloocan City",
+            "Category": "School",
+            "Location": [120.972844, 14.637675]
+        },
+        {
+            "Name": "Our Lady of Grace Parish",
+            "City": "Caloocan",
+            "Category": "Church",
+            "Location": [120.985212, 14.652686]
+        },
+        {
+            "Name": "Sacred Heart Parish",
+            "City": "Caloocan",
+            "Category": "Church",
+            "Location": [121.007608, 14.719256]
+        },
+        {
+            "Name": "San Roque Parish Church",
+            "City": "Caloocan city",
+            "Category": "Church",
+            "Location": [120.972888, 14.651624]
+        },
+        {
+            "Name": "St. Mary's Academy",
+            "City": "Caloocan",
+            "Category": "School",
+            "Location": [120.992987, 14.654273]
+        },
+        {
+            "Name": "Talipapa High School",
+            "City": "Caloocan City",
+            "Category": "School",
+            "Location": [120.984222, 14.600343]
+        },
+        {
+            "Name": "Tandang Sora Elementary School",
+            "City": "Caloocan",
+            "Category": "School",
+            "Location": [121.035167, 14.678531]
+        },
+        {
+            "Name": "University of the East Caloocan",
+            "City": "Caloocan City",
+            "Category": "School",
+            "Location": [120.976537, 14.658864]
+        },
+        {
+            "Name": "Canumay East Elementary School",
+            "City": "Canumay East",
+            "Category": "School",
+            "Location": [120.993323, 14.719666]
+        },
+        {
+            "Name": "Canumay West Elementary School",
+            "City": "Canumay West",
+            "Category": "School",
+            "Location": [120.9673, 14.713232]
+        },
+        {
+            "Name": "Daniel Fajardo Elementary School",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.980596, 14.481202]
+        },
+        {
+            "Name": "Funeraria L.A. Vasquez / St. Peter Chapel Las Pinas",
+            "City": "Las Pinas",
+            "Category": "Church",
+            "Location": [120.983741, 14.48355]
+        },
+        {
+            "Name": "Golden Acres Elementary School",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.997375, 14.416816]
+        },
+        {
+            "Name": "Ilaya Elementary School",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.98, 14.4779]
+        },
+        {
+            "Name": "Immaculate Conception Chapel",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.999744, 14.43921]
+        },
+        {
+            "Name": "Las Pi?ñas North National High School",
+            "City": "Pulang Lupa Dos, Las Pinas",
+            "Category": "School",
+            "Location": [120.980426, 14.460264]
+        },
+        {
+            "Name": "Las Pinas National High School - Gatchalian Annex",
+            "City": "Manuyo Dos,Las Pinas",
+            "Category": "School",
+            "Location": [120.992004, 14.470488]
+        },
+        {
+            "Name": "Manuyo Elementary School",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.995, 14.4677]
+        },
+        {
+            "Name": "Moonwalk Elementary School",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.986, 14.4376]
+        },
+        {
+            "Name": "Pulanlupa Elementary School - Camella Annex",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.986732, 14.458727]
+        },
+        {
+            "Name": "Rizal Experimental Station and Pilot School of Cottage Industries",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [121.001523, 14.445321]
+        },
+        {
+            "Name": "St. Joseph's Chapel",
+            "City": "Las Pinas",
+            "Category": "Church",
+            "Location": [120.987412, 14.461328]
+        },
+        {
+            "Name": "Talon Elementary School",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.98835, 14.446022]
+        },
+        {
+            "Name": "TESDA Accredited Competency Assessment Centers",
+            "City": "Las Pinas",
+            "Category": "School",
+            "Location": [120.972519, 14.469401]
+        },
+        {
+            "Name": "Bangkal Elementary School 1",
+            "City": "Makati",
+            "Category": "School",
+            "Location": [121.011872, 14.544028]
+        },
+        {
+            "Name": "Bangkal Elementary School III",
+            "City": "Makati",
+            "Category": "School",
+            "Location": [121.00973, 14.541482]
+        },
+        {
+            "Name": "Bel-Air Village Phase II",
+            "City": "Makati",
+            "Category": "School",
+            "Location": [121.025626, 14.564685]
+        },
+        {
+            "Name": "Covered Tennis Court And Parking",
+            "City": "Makati",
+            "Category": "Gym",
+            "Location": [121.026737, 14.541077]
+        },
+        {
+            "Name": "La Paz Barangay Hall",
+            "City": "Makati",
+            "Category": "Government Building",
+            "Location": [121.007333, 14.568417]
+        },
+        {
+            "Name": "Acacia Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.9689, 14.667382]
+        },
+        {
+            "Name": "Amang Rodriguez Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.949162, 14.671664]
+        },
+        {
+            "Name": "City of Malabon University",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.960167, 14.653685]
+        },
+        {
+            "Name": "Concepcion Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.949572, 14.667583]
+        },
+        {
+            "Name": "Dampalit Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.931078, 14.696202]
+        },
+        {
+            "Name": "Imelda Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.961154, 14.648251]
+        },
+        {
+            "Name": "Longos Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.957302, 14.655322]
+        },
+        {
+            "Name": "Longos National High School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.961331, 14.654598]
+        },
+        {
+            "Name": "Malabon Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.940997, 14.676976]
+        },
+        {
+            "Name": "Malabon National High School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.941917, 14.677054]
+        },
+        {
+            "Name": "Maysilo Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.961728, 14.68268]
+        },
+        {
+            "Name": "Santiago Syjuco Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.950776, 14.665406]
+        },
+        {
+            "Name": "Mandaluyong Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.0249, 14.586537]
+        },
+        {
+            "Name": "Isaac Lopez Integrated School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.024951, 14.577436]
+        },
+        {
+            "Name": "Nueve de Febrero Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.038705, 14.587386]
+        },
+        {
+            "Name": "Renato R. Lopez Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.021324, 14.584714]
+        },
+        {
+            "Name": "Andres Bonifacio Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.034548, 14.586184]
+        },
+        {
+            "Name": "Jose Fabella Memorial School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.034589, 14.585017]
+        },
+        {
+            "Name": "Dona Basilisa Yangco Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.021, 14.5803]
+        },
+        {
+            "Name": "Dona Pilar Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.030863, 14.589293]
+        },
+        {
+            "Name": "Highway Hills Integrated School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.049456, 14.582367]
+        },
+        {
+            "Name": "Jose Rizal University",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.028298, 14.592498]
+        },
+        {
+            "Name": "Pedro P Cruz Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.038721, 14.573744]
+        },
+        {
+            "Name": "Neptali Gonzales High School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.044353, 14.583539]
+        },
+        {
+            "Name": "Hulo Elementery School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.034966, 14.569197]
+        },
+        {
+            "Name": "Amado T. Reyes Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.051068, 14.569686]
+        },
+        {
+            "Name": "Barangka Ilaya Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.04496, 14.57158]
+        },
+        {
+            "Name": "Filemon P. Javier Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.029747, 14.581701]
+        },
+        {
+            "Name": "Mandaluyong Science High School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.036447, 14.568585]
+        },
+        {
+            "Name": "Plainview Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.030355, 14.577813]
+        },
+        {
+            "Name": "Neptali Gonzales Jr Basketball Gymnasium",
+            "City": "Mandaluyong",
+            "Category": "Gym",
+            "Location": [121.045639, 14.568878]
+        },
+        {
+            "Name": "Mauway covered court",
+            "City": "Mandaluyong",
+            "Category": "Gym",
+            "Location": [121.044158, 14.581844]
+        },
+        {
+            "Name": "San jose Covered Court",
+            "City": "Mandaluyong",
+            "Category": "Gym",
+            "Location": [121.033465, 14.56972]
+        },
+        {
+            "Name": "Magalona Basketball Covered Court",
+            "City": "Mandaluyong?ÿ",
+            "Category": "Gym",
+            "Location": [121.028695, 14.591252]
+        },
+        {
+            "Name": "Barangay Hall Wack-Wack Greenhills East",
+            "City": "Mandaluyong",
+            "Category": "Government Building",
+            "Location": [121.052889, 14.582701]
+        },
+        {
+            "Name": "St. Dominic Savio Church",
+            "City": "Mandaluyong",
+            "Category": "Church",
+            "Location": [121.027525, 14.590535]
+        },
+        {
+            "Name": "Wack-Wack Golf & Country Club",
+            "City": "Mandaluyong",
+            "Category": "Gym",
+            "Location": [121.046509, 14.587655]
+        },
+        {
+            "Name": "Andres Bonifacio Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.978568, 14.617148]
+        },
+        {
+            "Name": "Baseco Evacuation Center",
+            "City": "Manila",
+            "Category": "Government Building",
+            "Location": [120.95896, 14.590574]
+        },
+        {
+            "Name": "Cayetano Arellano High School",
+            "City": "manila",
+            "Category": "School",
+            "Location": [120.97958, 14.606622]
+        },
+        {
+            "Name": "Dapitan Sports Complex",
+            "City": "Manila",
+            "Category": "Gym",
+            "Location": [120.995951, 14.617824]
+        },
+        {
+            "Name": "Dapitan Sports Complex",
+            "City": "Manila",
+            "Category": "Gym",
+            "Location": [120.995951, 14.617824]
+        },
+        {
+            "Name": "Delpan Sports Complex",
+            "City": "Manila",
+            "Category": "Gym",
+            "Location": [120.966339, 14.598182]
+        },
+        {
+            "Name": "Francisco Balagtas Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.98094, 14.612684]
+        },
+        {
+            "Name": "Gen Vicente Lim",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.96102, 14.624112]
+        },
+        {
+            "Name": "Gen. Geronimo Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.99749, 14.605751]
+        },
+        {
+            "Name": "Gen. Vicente Lim Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [121.009, 14.6099]
+        },
+        {
+            "Name": "General M. Hizon Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.976762, 14.611241]
+        },
+        {
+            "Name": "Geronimo Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [121.14965, 14.732546]
+        },
+        {
+            "Name": "Obrero Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.979133, 14.634357]
+        },
+        {
+            "Name": "Pamana Building",
+            "City": "Manila",
+            "Category": "Building",
+            "Location": [121.019089, 14.599991]
+        },
+        {
+            "Name": "Pedro Guevarra Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.971102, 14.597967]
+        },
+        {
+            "Name": "Perez West Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.9907, 14.580426]
+        },
+        {
+            "Name": "Quirino High School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [121.053929, 14.624506]
+        },
+        {
+            "Name": "Rafael Palma Elementary School",
+            "City": "manila",
+            "Category": "School",
+            "Location": [120.998, 14.5587]
+        },
+        {
+            "Name": "Ramon Avance?ña High School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.989336, 14.593608]
+        },
+        {
+            "Name": "Torres High School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.972717, 14.627326]
+        },
+        {
+            "Name": "Concepcion Integrated School",
+            "City": "Marikina",
+            "Category": "School",
+            "Location": [121.101922, 14.65049]
+        },
+        {
+            "Name": "H. Bautista Elementary School",
+            "City": "Marikina",
+            "Category": "School",
+            "Location": [121.103837, 14.657571]
+        },
+        {
+            "Name": "Malanday Elementary School",
+            "City": "Marikina",
+            "Category": "School",
+            "Location": [121.094366, 14.650244]
+        },
+        {
+            "Name": "Nangka Elementary School",
+            "City": "Marikina",
+            "Category": "School",
+            "Location": [121.108439, 14.673061]
+        },
+        {
+            "Name": "Sto. Ni?ño Elementary School",
+            "City": "Marikina",
+            "Category": "School",
+            "Location": [121.095812, 14.639048]
+        },
+        {
+            "Name": "Alabang Elementary School",
+            "City": "Alabang Muntinlupa",
+            "Category": "School",
+            "Location": [121.049171, 14.420778]
+        },
+        {
+            "Name": "Bayanan Elementary School-Main",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.051606, 14.412138]
+        },
+        {
+            "Name": "Buli Covered Court",
+            "City": "Muntinlupa",
+            "Category": "Gym",
+            "Location": [121.051612, 14.442753]
+        },
+        {
+            "Name": "Buli Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.048112, 14.443397]
+        },
+        {
+            "Name": "Cupang Elementary School",
+            "City": "Cupang Muntinlupa",
+            "Category": "School",
+            "Location": [121.049912, 14.430526]
+        },
+        {
+            "Name": "Cupang Mulled Covered Court",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.049722, 14.438333]
+        },
+        {
+            "Name": "F. de Mesa Elementary School",
+            "City": "Putatan Muntinlupa",
+            "Category": "School",
+            "Location": [121.044163, 14.401468]
+        },
+        {
+            "Name": "Itaas Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.031334, 14.386475]
+        },
+        {
+            "Name": "Muntinlupa Sports Complex",
+            "City": "Tunasan Muntinpula",
+            "Category": "Gym",
+            "Location": [121.05268, 14.383256]
+        },
+        {
+            "Name": "Pedro E. Diaz High School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.044187, 14.411345]
+        },
+        {
+            "Name": "Putatan Elementary School",
+            "City": "Putatan Muntinlupa",
+            "Category": "School",
+            "Location": [121.036377, 14.398368]
+        },
+        {
+            "Name": "Sucat Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.052642, 14.457621]
+        },
+        {
+            "Name": "Tunasan Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.051587, 14.38111]
+        },
+        {
+            "Name": "Bagumbayan Elementary School",
+            "City": "navotas",
+            "Category": "School",
+            "Location": [120.948375, 14.658246]
+        },
+        {
+            "Name": "Bangkulasi Elementary School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.952826, 14.651214]
+        },
+        {
+            "Name": "Dagat-Dagatan Elementary School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.93985, 14.671491]
+        },
+        {
+            "Name": "Kapitbahayan Elementary School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.93985, 14.671491]
+        },
+        {
+            "Name": "Kaunlaran High School",
+            "City": "Navotas City",
+            "Category": "School",
+            "Location": [120.957667, 14.645474]
+        },
+        {
+            "Name": "Mandaluyong Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.0249, 14.586537]
+        },
+        {
+            "Name": "Navotas Elementary School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.943799, 14.662653]
+        },
+        {
+            "Name": "Isaac Lopez Integrated School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.024951, 14.577436]
+        },
+        {
+            "Name": "North Bay Boulevard North Elementary School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.956795, 14.643347]
+        },
+        {
+            "Name": "Nueve de Febrero Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.038705, 14.587386]
+        },
+        {
+            "Name": "Renato R. Lopez Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.021324, 14.584714]
+        },
+        {
+            "Name": "San Rafael National High School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.964956, 14.636567]
+        },
+        {
+            "Name": "Andres Bonifacio Elementary School",
+            "City": "Mandaluyong City",
+            "Category": "School",
+            "Location": [121.034548, 14.586184]
+        },
+        {
+            "Name": "Jose Fabella Memorial School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.034589, 14.585017]
+        },
+        {
+            "Name": "Dona Basilisa Yangco Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.021, 14.5803]
+        },
+        {
+            "Name": "Dona Pilar Elementary School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.030863, 14.589293]
+        },
+        {
+            "Name": "San Roque National High School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.938463, 14.669697]
+        },
+        {
+            "Name": "Highway Hills Integrated School",
+            "City": "Mandaluyong",
+            "Category": "School",
+            "Location": [121.049456, 14.582367]
+        },
+        {
+            "Name": "Tangos Elementary School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.934909, 14.673384]
+        },
+        {
+            "Name": "Tangos National High School",
+            "City": "Navotas",
+            "Category": "School",
+            "Location": [120.932143, 14.674563]
+        },
+        {
+            "Name": "Tanza Elementary School",
+            "City": "Navotas City",
+            "Category": "School",
+            "Location": [120.933578, 14.678886]
+        },
+        {
+            "Name": "Santo Ni?ño Barangay Hall",
+            "City": "Paranaque",
+            "Category": "Brgy Hall",
+            "Location": [120.997219, 14.502773]
+        },
+        {
+            "Name": "La Huerta Elementary School",
+            "City": "Paranaque City",
+            "Category": "School",
+            "Location": [120.993279, 14.498259]
+        },
+        {
+            "Name": "Pasay City Sports Complex",
+            "City": "Pasay",
+            "Category": "Government Building",
+            "Location": [120.993351, 14.543695]
+        },
+        {
+            "Name": "Cuneta Astrodome",
+            "City": "Pasay",
+            "Category": "Gym",
+            "Location": [120.99204, 14.54468]
+        },
+        {
+            "Name": "Pinaglabanan Shrine",
+            "City": "San Juan",
+            "Category": "Park",
+            "Location": [121.031181, 14.604771]
+        },
+        {
+            "Name": "San Juan Gym",
+            "City": "San juan City",
+            "Category": "Gym",
+            "Location": [121.022446, 14.60642]
+        },
+        {
+            "Name": "Filoil Flying V Arena",
+            "City": "San Juan?ÿ",
+            "Category": "Gym",
+            "Location": [121.032883, 14.605572]
+        },
+        {
+            "Name": "White Cross Incorporated",
+            "City": "San Juan",
+            "Category": "N/A",
+            "Location": [121.048648, 14.609602]
+        },
+        {
+            "Name": "Brgy Hall - Brgy Ligid Tipas",
+            "City": "Taguig City",
+            "Category": "Brgy Hall",
+            "Location": [121.082647, 14.542694]
+        },
+        {
+            "Name": "Brgy North Signal Village",
+            "City": "Taguig City",
+            "Category": "Locale",
+            "Location": [121.057703, 14.516331]
+        },
+        {
+            "Name": "Calzada Brgy Hall - Calzada",
+            "City": "Taguig City",
+            "Category": "Brgy Hall",
+            "Location": [121.079989, 14.533619]
+        },
+        {
+            "Name": "Cayetano Science HS - Brgy Ususan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.061408, 14.525594]
+        },
+        {
+            "Name": "Covered Court - Brgy Pinagsama",
+            "City": "Taguig City",
+            "Category": "Gym",
+            "Location": [121.057425, 14.523583]
+        },
+        {
+            "Name": "CP Sta. Teresa Elem Sch - Bagumbayan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.059742, 14.477736]
+        },
+        {
+            "Name": "CP Tinga Elem Sch - Brgy. Hagonoy",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.069156, 14.513308]
+        },
+        {
+            "Name": "Day Care Center 2 - Ibayo Tipas",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.084428, 14.542156]
+        },
+        {
+            "Name": "Diosdado Macapagal HS - Katuparan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.058244, 14.521356]
+        },
+        {
+            "Name": "E. Santos Elem Sch - Brgy Wawa",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.073592, 14.520142]
+        },
+        {
+            "Name": "GK Building - Brgy. Bagumbayan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.055925, 14.472039]
+        },
+        {
+            "Name": "LDS Chapel - San Miguel",
+            "City": "Taguig City",
+            "Category": "Church",
+            "Location": [121.074142, 14.520006]
+        },
+        {
+            "Name": "Mabao Multi-Purpose Coop - Lower Bic",
+            "City": "Taguig City",
+            "Category": "Government Building",
+            "Location": [121.062214, 14.486286]
+        },
+        {
+            "Name": "Napindan Elem Sch - Brgy Napindan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.096881, 14.539103]
+        },
+        {
+            "Name": "Palingon Brgy Hall - Palingon",
+            "City": "Taguig City",
+            "Category": "Brgy Hall",
+            "Location": [121.080267, 14.538117]
+        },
+        {
+            "Name": "R. Papa HS Annex - Brgy Ususan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.067833, 14.534278]
+        },
+        {
+            "Name": "R. Papa HS Main - Brgy Tuktukan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.067833, 14.528297]
+        },
+        {
+            "Name": "RP Cruz Elem Sch - New Lower Bicutan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.062925, 14.500211]
+        },
+        {
+            "Name": "San Juan de Sahagon - Bambang",
+            "City": "Taguig City",
+            "Category": "Church",
+            "Location": [121.073867, 14.523239]
+        },
+        {
+            "Name": "Simbayanan Church - Lower Bicutan",
+            "City": "Taguig City",
+            "Category": "Church",
+            "Location": [121.064892, 14.502953]
+        },
+        {
+            "Name": "Sitio Una Covered Court - Fort Bonifacio",
+            "City": "Taguig City",
+            "Category": "Gym",
+            "Location": [121.026672, 14.508706]
+        },
+        {
+            "Name": "Sta. Anne Gym - Sta. Ana",
+            "City": "Taguig City",
+            "Category": "Gym",
+            "Location": [121.074089, 14.526572]
+        },
+        {
+            "Name": "Taguig Elem Sch - Sta. Ana",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.075342, 14.525503]
+        },
+        {
+            "Name": "Tat Mag-anak Chapel - New Lower",
+            "City": "Taguig City",
+            "Category": "Church",
+            "Location": [121.064978, 14.505353]
+        },
+        {
+            "Name": "Tenement Elem Sch - Western Bicutan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.038181, 14.508714]
+        },
+        {
+            "Name": "Tipas Elem Sch Annex - Calzada",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.0797, 14.531903]
+        },
+        {
+            "Name": "Tipas Elem Sch Main - Brgy Palingon",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.078889, 14.538856]
+        },
+        {
+            "Name": "Ususan Elem Sch - Brgy Ususan",
+            "City": "Taguig City",
+            "Category": "School",
+            "Location": [121.067394, 14.534369]
+        },
+        {
+            "Name": "A. Fernando Elementary School",
+            "City": "Malanday",
+            "Category": "School",
+            "Location": [120.955498, 14.71707]
+        },
+        {
+            "Name": "A.Mariano Elementary School",
+            "City": "Bagbaguin",
+            "Category": "School",
+            "Location": [121.000214, 14.713896]
+        },
+        {
+            "Name": "Arkong Bato National High School",
+            "City": "Valenzuela",
+            "Category": "School",
+            "Location": [120.977009, 14.684169]
+        },
+        {
+            "Name": "Balangkas Barangay Hall",
+            "City": "Valenzuela",
+            "Category": "Brgy Hall",
+            "Location": [120.94372, 14.711701]
+        },
+        {
+            "Name": "Bignay Elementary School",
+            "City": "Valenzuela",
+            "Category": "School",
+            "Location": [120.996239, 14.745665]
+        },
+        {
+            "Name": "Bignay National High School",
+            "City": "Valenzuela",
+            "Category": "School",
+            "Location": [120.977234, 14.672638]
+        },
+        {
+            "Name": "Bitik Elementary School",
+            "City": "Gen. T. De Leon",
+            "Category": "School",
+            "Location": [120.986613, 14.680004]
+        },
+        {
+            "Name": "Canumay National High School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.9894, 14.711342]
+        },
+        {
+            "Name": "Constantino Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.988304, 14.677596]
+        },
+        {
+            "Name": "Dalandanan Elementary School",
+            "City": "Dalandanan",
+            "Category": "School",
+            "Location": [120.964149, 14.704582]
+        },
+        {
+            "Name": "Dalandanan High School",
+            "City": "Dalandanan",
+            "Category": "School",
+            "Location": [120.956888, 14.709133]
+        },
+        {
+            "Name": "Dona Ata Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.984582, 14.677412]
+        },
+        {
+            "Name": "Gen T De Leon National High School",
+            "City": "Gen T. De Leon",
+            "Category": "School",
+            "Location": [120.999631, 14.687718]
+        },
+        {
+            "Name": "Gen T. De Leon Elementary School",
+            "City": "Gen T. De Leon",
+            "Category": "School",
+            "Location": [120.990526, 14.692561]
+        },
+        {
+            "Name": "Isla Elementary School",
+            "City": "Valenzuela",
+            "Category": "School",
+            "Location": [120.952492, 14.703547]
+        },
+        {
+            "Name": "Karuhatan East Elementary School",
+            "City": "Karuhatan",
+            "Category": "School",
+            "Location": [120.976115, 14.691124]
+        },
+        {
+            "Name": "Karuhatan National High School",
+            "City": "Karuhatan",
+            "Category": "School",
+            "Location": [120.974018, 14.680709]
+        },
+        {
+            "Name": "Karuhatan West Elementary School",
+            "City": "Karuhatan",
+            "Category": "School",
+            "Location": [120.974163, 14.681376]
+        },
+        {
+            "Name": "Lawang Bato Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.991541, 14.732459]
+        },
+        {
+            "Name": "Lawang Bato National High School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.991165, 14.732824]
+        },
+        {
+            "Name": "Lingunan Elementary School",
+            "City": "Lingunan",
+            "Category": "School",
+            "Location": [120.975667, 14.720086]
+        },
+        {
+            "Name": "Malinta Elementary School",
+            "City": "Malinta",
+            "Category": "School",
+            "Location": [120.965885, 14.691687]
+        },
+        {
+            "Name": "Malinta National High School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.964642, 14.68841]
+        },
+        {
+            "Name": "Mapulang Lupa Elementary School",
+            "City": "Mapulang Lupa",
+            "Category": "School",
+            "Location": [121.000268, 14.701767]
+        },
+        {
+            "Name": "Mapulang Lupa National High School",
+            "City": "Mapulang Lupa",
+            "Category": "School",
+            "Location": [120.979113, 14.712287]
+        },
+        {
+            "Name": "Marulas Central Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.984837, 14.675807]
+        },
+        {
+            "Name": "Maysan Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.979745, 14.69959]
+        },
+        {
+            "Name": "Maysan National High School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.980283, 14.699292]
+        },
+        {
+            "Name": "Maysan National High School Annex Campus",
+            "City": "Valenzuela",
+            "Category": "School",
+            "Location": [120.980612, 14.701891]
+        },
+        {
+            "Name": "Pamantasan ng Lungsod ng Valenzuela",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.969092, 14.693792]
+        },
+        {
+            "Name": "Parada Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.987722, 14.698114]
+        },
+        {
+            "Name": "Parada National High School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.990331, 14.695511]
+        },
+        {
+            "Name": "Paso de Blas Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.991082, 14.705429]
+        },
+        {
+            "Name": "Pio Valenzuela Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.945861, 14.706304]
+        },
+        {
+            "Name": "PR San Diego Elementary School",
+            "City": "Valenzuela Cit",
+            "Category": "School",
+            "Location": [120.949226, 14.698882]
+        },
+        {
+            "Name": "Punturin Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.99068, 14.739935]
+        },
+        {
+            "Name": "Rincon Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.958008, 14.699375]
+        },
+        {
+            "Name": "San Miguel Heights Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.990647, 14.676311]
+        },
+        {
+            "Name": "Serrano Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.982524, 14.681077]
+        },
+        {
+            "Name": "Silvestre Lazaro Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [121.01173, 14.695203]
+        },
+        {
+            "Name": "Sto. Rosario Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.966956, 14.703388]
+        },
+        {
+            "Name": "Ugong Barangay Hall",
+            "City": "Valenzuela City",
+            "Category": "Brgy Hall",
+            "Location": [121.011069, 14.694975]
+        },
+        {
+            "Name": "Tagalag Elementary School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.937431, 14.724549]
+        },
+        {
+            "Name": "Muntinlupa Sports Complex",
+            "City": "Tunasan",
+            "Category": "Gym",
+            "Location": [121.05268, 14.383256]
+        },
+        {
+            "Name": "Tunasan Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.051587, 14.38111]
+        },
+        {
+            "Name": "Itaas Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.031334, 14.386475]
+        },
+        {
+            "Name": "Putatan Elementary School",
+            "City": "Putatan",
+            "Category": "School",
+            "Location": [121.036377, 14.398368]
+        },
+        {
+            "Name": "F. de Mesa Elementary School",
+            "City": "Putatan",
+            "Category": "School",
+            "Location": [121.044163, 14.401468]
+        },
+        {
+            "Name": "Cupang Elementary School",
+            "City": "Cupang",
+            "Category": "School",
+            "Location": [121.049912, 14.430526]
+        },
+        {
+            "Name": "Bayanan Elementary School-Main",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.051606, 14.412138]
+        },
+        {
+            "Name": "Alabang Elementary School",
+            "City": "Alabang",
+            "Category": "School",
+            "Location": [121.049171, 14.420778]
+        },
+        {
+            "Name": "Pedro E. Diaz High School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.044187, 14.411345]
+        },
+        {
+            "Name": "Buli Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.048112, 14.443397]
+        },
+        {
+            "Name": "Perez West Elementary School",
+            "City": "Manila",
+            "Category": "School",
+            "Location": [120.9907, 14.580426]
+        },
+        {
+            "Name": "Baseco Evacuation Center",
+            "City": "Manila",
+            "Category": "Government Building",
+            "Location": [120.95896, 14.590574]
+        },
+        {
+            "Name": "Santo Ni?ño Barangay Hall",
+            "City": "Paranaque",
+            "Category": "Brgy Hall",
+            "Location": [120.997219, 14.502773]
+        },
+        {
+            "Name": "Sucat Elementary School",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.052642, 14.457621]
+        },
+        {
+            "Name": "Cupang Mulled Covered Court",
+            "City": "Muntinlupa",
+            "Category": "School",
+            "Location": [121.049722, 14.438333]
+        },
+        {
+            "Name": "Buli Covered Court",
+            "City": "Muntinlupa",
+            "Category": "Gym",
+            "Location": [121.051612, 14.442753]
+        },
+        {
+            "Name": "Potrero Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.983868, 14.663158]
+        },
+        {
+            "Name": "Catmon Integrated School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.962266, 14.664635]
+        },
+        {
+            "Name": "Tonsuya Elementary School",
+            "City": "Malabon",
+            "Category": "School",
+            "Location": [120.957574, 14.663792]
+        },
+        {
+            "Name": "Valenzuela Astrodome",
+            "City": "Dalandanan",
+            "Category": "School",
+            "Location": [120.957605, 14.709189]
+        },
+        {
+            "Name": "Valenzuela National High School",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.985033, 14.672616]
+        },
+        {
+            "Name": "Canumay East Elementary School",
+            "City": "Canumay East",
+            "Category": "School",
+            "Location": [120.993323, 14.719666]
+        },
+        {
+            "Name": "Canumay West Elementary School",
+            "City": "Canumay West",
+            "Category": "School",
+            "Location": [120.9673, 14.713232]
+        },
+        {
+            "Name": "Valenzuela Old City Hall",
+            "City": "Valenzuela City",
+            "Category": "School",
+            "Location": [120.968895, 14.692274]
+        },
+        {
+            "Name": "Valenzuela Polytechnic College",
+            "City": "Valenzuela",
+            "Category": "School",
+            "Location": [120.989998, 14.6998]
+        },
+        {
+            "Name": "Wawangpulo Elementary School",
+            "City": "Valenzuela",
+            "Category": "School",
+            "Location": [120.928345, 14.732983]
+        }
+    ]
+}
